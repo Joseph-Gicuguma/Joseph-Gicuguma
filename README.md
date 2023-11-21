@@ -18,7 +18,7 @@
   <!-- <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong> -->
 </p>
 
-<p align="center"> I'm currently an Information Technology undergraduate student at KCA University. I'm into Anime, Software Dev, WEB3.0 and Karate🥋.</p>
+<p align="center">I love Creating.</p>
 
 
 
