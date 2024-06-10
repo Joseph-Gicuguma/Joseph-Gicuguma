@@ -26,7 +26,7 @@ I specialize in creating dynamic and interactive web applications with a strong 
 
 ## My Skills
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Languages:** JavaScript, TypeScript, HTML, CSS, Solidity, Reach.sh
 - **Frameworks & Libraries:** React, Next.js, Node.js, Express.js
 - **Databases:** MySQL, Prisma
 - **Tools & Platforms:** Git, Docker, Postman, Figma
