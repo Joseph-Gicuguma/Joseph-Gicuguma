@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 ## About Me
 
 - 🌍 **Location:** Nairobi, Kenya
-- 💼 **Current Role:** Head of BD at Investa Farm and CTO at Healthy Basket
+- 💼 **Current Role:** Head of BD at Investa Farm.
 - 🎓 **Education:** Bsc(Information Technology) from KCA University.
 - 🌟 **Specialties:** Full Stack Development, React, Next.js, Node.js, Prisma, MySQL, Python, Express.js
 
