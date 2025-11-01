@@ -10,25 +10,25 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 ## About Me
 
 - 🌍 **Location:** Nairobi, Kenya
-- 💼 **Current Role:** Software Engineer & Head of BD at Investa Farm.
-- 🎓 **Education:** Bsc(Information Technology) from KCA University.
+- 💼 **Current Role:** Founder & CTO at <a href="https://alika.app">Alika Inc.</a>
+- 🎓 **Education:** Bsc(Information Technology).
 - 🌟 **Specialties:** Full Stack Development, React, Next.js, Node.js, Prisma, MySQL, Python, Express.js
 
 ## What I Do
 
-I specialize in creating dynamic and interactive web applications with a strong focus on user experience and performance. My tech stack includes:
+I specialize in creating dynamic and interactive web applications with a strong focus on user experience and performance. 
 
+<!--
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Database:** Prisma, MySQL
-- **Tools:** Git, Docker, Thunder Client
+- **Database:** Prisma, MySQL, PostgreSQL
+- **Tools:** Git, Docker, Postman, Figma
+-->
+## My tech stack includes:
 
-
-## My Skills
-
-- **Languages:** JavaScript, TypeScript, HTML, CSS, Solidity, Reach.sh
-- **Frameworks & Libraries:** React, Next.js, Node.js, Express.js
-- **Databases:** MySQL, Prisma
+- **Languages & Frameworks:** JavaScript, TypeScript, HTML, CSS, Python, 
+- **Frameworks & Libraries:** React, Next.js, Node.js, Express.js, Fast API
+- **Databases:** MySQL, Prisma, Postgres 
 - **Tools & Platforms:** Git, Docker, Postman, Figma
 
 ## Get in Touch📫
