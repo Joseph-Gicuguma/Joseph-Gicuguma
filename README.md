@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 ## About Me
 
 - 🌍 **Location:** Nairobi, Kenya
-- 💼 **Current Role:** Founder & CTO at <a href="https://alika.app">Alika Inc.</a>
+- 💼 **Current Role:** Founder & CTO at <a href="https://alika.app" targe="blank" >Alika Inc.</a>
 - 🎓 **Education:** Bsc(Information Technology).
 - 🌟 **Specialties:** Full Stack Development, React, Next.js, Node.js, Prisma, MySQL, Python, Express.js
 
